@@ -3,5 +3,6 @@
   "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed dui non sapien vulputate dapibus id et velit. Nullam lacinia sapien sit amet nunc facilisis",
   "tags": ["Flask", "MySQL", "jQuery"],
   "start": "Oct 2015",
-  "end": "Dec 2016"
+  "end": "Dec 2016",
+  "thumbnail": "https://i.imgur.com/2ZDIsRV.png?1"
 }
