@@ -3,5 +3,6 @@
   "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed dui non sapien vulputate dapibus id et velit. Nullam lacinia sapien sit amet nunc facilisis",
   "tags": ["hardward", "NodeJS", "ReactJS", "Material UI", "Swift"],
   "start": "Jan 2018",
-  "end": "April 2018"
+  "end": "April 2018",
+  "thumbnail": "https://i.imgur.com/Ummcx3n.png"
 }
