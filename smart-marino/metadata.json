@@ -4,5 +4,10 @@
   "tags": ["hardward", "NodeJS", "ReactJS", "Material UI", "Swift"],
   "start": "Jan 2018",
   "end": "April 2018",
-  "thumbnail": "https://i.imgur.com/Ummcx3n.png?1"
+  "thumbnail": "https://i.imgur.com/Ummcx3n.png?1",
+  "github": [
+    "https://github.com/steventhan/smart-marino-client",
+    "https://github.com/steventhan/smart-marino-server",
+    "https://github.com/steventhan/smart-marino-machine"
+  ]
 }
