@@ -9,5 +9,6 @@
     "https://github.com/steventhan/smart-marino-client",
     "https://github.com/steventhan/smart-marino-server",
     "https://github.com/steventhan/smart-marino-machine"
-  ]
+  ],
+  "demo": "https://smart-marino.herokuapp.com/"
 }
