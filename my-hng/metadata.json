@@ -1,8 +1,8 @@
 {
   "title": "My HNG",
-  "intro": "Internal administrative application for a Samsung's brand engineer company that also serves as REST API for customer-facing website",
+  "intro": "Internal administrative application for a Samsung's brand engineer company that also serves as REST API for its customer-facing website",
   "tags": [
-    "Flask", "PostgreSQL", "MySQL", "jQuery", "JavaScript", "Python", "EC2", "RDS", "Bootstrap" 
+    "Bootstrap", "EC2", "Flask", "JavaScript", "jQuery", "MySQL", "PostgreSQL", "Python", "RDS"
   ],
   "start": "Oct 2015",
   "end": "Dec 2016",
