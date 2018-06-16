@@ -1,7 +1,9 @@
 {
   "title": "My HNG",
-  "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed dui non sapien vulputate dapibus id et velit. Nullam lacinia sapien sit amet nunc facilisis",
-  "tags": ["Flask", "MySQL", "jQuery"],
+  "intro": "Internal administrative application for a Samsung's brand engineer company that also serves as REST API for customer-facing website",
+  "tags": [
+    "Flask", "PostgreSQL", "MySQL", "jQuery", "JavaScript", "Python", "EC2", "RDS", "Bootstrap" 
+  ],
   "start": "Oct 2015",
   "end": "Dec 2016",
   "thumbnail": "https://i.imgur.com/2ZDIsRV.png?1",
