@@ -1,6 +1,6 @@
 {
   "title": "Dota 2 Bot",
-  "intro": "Making Dota 2 bot using deep reinforcement learning",
+  "intro": "My first attempt at deep reinforment learning, inspired by the achievement of Deepmind's AlphaGo and OpenAI Dota 2 bot",
   "tags": [
     "deep reinforcement learning", "Japronto", "machine learning", "neural network", "Lua", "Python", "PyTorch"
   ],
