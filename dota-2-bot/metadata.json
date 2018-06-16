@@ -1,0 +1,14 @@
+{
+  "title": "Dota 2 Bot",
+  "intro": "Making Dota 2 bot using deep reinforcement learning",
+  "tags": [
+    "deep reinforcement learning", "Japronto", "machine learning", "neural network", "Lua", "Python", "PyTorch"
+  ],
+  "start": "Feb 2018",
+  "end": "Apr 2018",
+  "thumbnail": "https://i.imgur.com/Ummcx3n.png?1",
+  "github": [
+    "https://github.com/5150-dota2/ml-server",
+    "https://github.com/5150-dota2/bots"
+  ]
+}
