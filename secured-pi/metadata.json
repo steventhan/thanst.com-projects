@@ -2,7 +2,7 @@
   "title": "Secured Pi",
   "intro": "RaspberryPi-powered lock that communicates with Django (HTTP) and Flask (Websockets) servers. Features: facial recognition, RFID and manual unlocking mechanisms",
   "tags": [
-    "Bootstrap", "Django", "EC2", "Flask", "hardware", "JavaScript", "Python", "RDS", "websockets"
+    "Bootstrap", "Django", "EC2", "Flask", "hardware", "JavaScript", "Python", "pytest", "RDS", "unittest", "websockets"
   ],
   "start": "Oct 2016",
   "end": "Oct 2016",

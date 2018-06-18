@@ -6,8 +6,9 @@
   ],
   "start": "Jan 2018",
   "end": "Apr 2018",
-  "thumbnail": "https://i.imgur.com/EkSeuqt.png",
+  "thumbnail": "https://i.imgur.com/Ch6Ut4v.jpg",
   "github": [
-    "https://github.com/steventhan/smart-marino-client"
-  ]
+    "https://github.com/deal-thief/deal-thief"
+  ],
+  "demo": "http://dealthief.herokuapp.com"
 }
