@@ -2,7 +2,7 @@
   "title": "Thanst.com",
   "intro": "This website you're using right now",
   "tags": [
-    "EC2", "ExpressJS", "Github API", "GraphQL" "JavaScript", "NodeJS", "ReactJS", "Material UI", "S3"
+    "EC2", "ExpressJS", "Github API", "GraphQL", "JavaScript", "NodeJS", "ReactJS", "Redux", "Material UI", "S3"
   ],
   "start": "June 2018",
   "end": "June 2018",
