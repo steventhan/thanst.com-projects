@@ -2,7 +2,7 @@
   "title": "Deal Thief",
   "intro": "Reservation system for aerobic machines at Northeastern Marino recreation center",
   "tags": [
-    "Bootstrap", "Heroku" "JavaScript", "PostgreSQL", "Python", "pytest", "Pyramid"
+    "Bootstrap", "Heroku", "JavaScript", "PostgreSQL", "Python", "pytest", "Pyramid"
   ],
   "start": "Jan 2018",
   "end": "Apr 2018",
