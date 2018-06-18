@@ -1,0 +1,13 @@
+{
+  "title": "HV Tile Grout",
+  "intro": "Customer-facing website for a tile grout business",
+  "tags": [
+    "EC2", "ExpressJS", "JavaScript", "MongoDB", "NodeJS", "ReactJS", "Material UI", "SES"
+  ],
+  "start": "July 2017",
+  "end": "July 2017",
+  "thumbnail": "https://i.imgur.com/JUmBZ5B.jpg",
+  "github": [
+    "https://github.com/steventhan/hvtilegrout.com"
+  ]
+}
