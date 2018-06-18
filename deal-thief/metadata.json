@@ -1,0 +1,13 @@
+{
+  "title": "Deal Thief",
+  "intro": "Web app for best hotel/travel deals, gathering data from Skyscanner API",
+  "tags": [
+    "Bootstrap", "Heroku", "JavaScript", "PostgreSQL", "Python", "pytest", "Pyramid", "Skyscanner API"
+  ],
+  "start": "Jan 2018",
+  "end": "Apr 2018",
+  "thumbnail": "https://i.imgur.com/EkSeuqt.png",
+  "github": [
+    "https://github.com/steventhan/smart-marino-client"
+  ]
+}
