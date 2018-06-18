@@ -2,11 +2,11 @@
   "title": "Smart Marino",
   "intro": "Reservation system for aerobic machines at Northeastern Marino recreation center",
   "tags": [
-    "EC2", "hardware", "JavaScript", "MongoDB", "NodeJS", "ReactJS", "Material UI", "Swift"
+    "EC2", "ExpressJS", "hardware", "JavaScript", "MongoDB", "NodeJS", "ReactJS", "Material UI", "Swift"
   ],
   "start": "Jan 2018",
   "end": "Apr 2018",
-  "thumbnail": "https://i.imgur.com/Ummcx3n.png?1",
+  "thumbnail": "https://i.imgur.com/EkSeuqt.png",
   "github": [
     "https://github.com/steventhan/smart-marino-client",
     "https://github.com/steventhan/smart-marino-server",
