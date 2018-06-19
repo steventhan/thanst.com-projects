@@ -1,0 +1,13 @@
+{
+  "title": "Portfolio Manager",
+  "intro": "A tiny Java desktop app for managing stock portfolio, capable of tracking prices, graphing and grouping multiple tickers into a basket",
+  "tags": [
+    "Java", "JUnit", "Yahoo Finance API", "Swing"
+  ],
+  "start": "Jun 2017",
+  "end": "Jun 2017",
+  "thumbnail": "https://i.imgur.com/6hm1cg0.jpg",
+  "github": [
+    "https://github.com/steventhan/portfolio-manager"
+  ]
+}
