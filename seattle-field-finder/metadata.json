@@ -1,0 +1,14 @@
+{
+  "title": "Seattle Field Finder",
+  "intro": "Web app that helps find sporting fields around Seattle area",
+  "tags": [
+    "Bootstrap", "ExpressJS", "Google API", "Heroku", "JavaScript", "NodeJS", "WebSQL"
+  ],
+  "start": "Jul 2016",
+  "end": "Jul 2016",
+  "thumbnail": "https://i.imgur.com/oyD3YbX.jpg",
+  "github": [
+    "https://github.com/steventhan/seattle-field-finder"
+  ],
+  "demo": "http://field-finder.herokuapp.com"
+}
