@@ -2,7 +2,7 @@
   "title": "HV Tile Grout",
   "intro": "Customer-facing website for a tile grout business",
   "tags": [
-    "EC2", "ExpressJS", "JavaScript", "NodeJS", "ReactJS", "Material UI", "SES"
+    "EC2", "ExpressJS", "Google API", "JavaScript", "NodeJS", "ReactJS", "Material UI", "SES"
   ],
   "start": "July 2017",
   "end": "July 2017",
