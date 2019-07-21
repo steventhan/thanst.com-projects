@@ -1,0 +1,14 @@
+{
+  "title": "Capital One Sentimental Analysis",
+  "intro": "Real-time, real-life information on Twitter's opinion of CapitalOne",
+  "tags": [
+    "natural language processing", "ReactJS", "Redux", "Python", "Flask", "Google Cloud Natural Language API", "IBM Watson API"
+  ],
+  "start": "Sep 2016",
+  "end": "Sep 2016",
+  "thumbnail": "https://i.imgur.com/a2jZMYk.png",
+  "github": [
+    "https://github.com/steventhan/carbon-hack-sentiment"
+  ],
+  "demo": "https://carbon-hack-sentiment.herokuapp.com/"
+}
