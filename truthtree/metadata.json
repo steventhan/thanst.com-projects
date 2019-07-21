@@ -1,0 +1,14 @@
+{
+  "title": "TruthTree",
+  "intro": "An open source platform that provides tools and services to users for exploring, creating, and then sharing user-generated data visualization stories. The first phase of this project concentrates on Local Government spending in the United States for three different entity types: state, county, and city.",
+  "tags": [
+    "Java", "ElasticSearch", "ReactJS", "Redux", "Spring Boot", "Docker", "PostgreSQL"
+  ],
+  "start": "Jan 2019",
+  "end": "Apr 2019",
+  "thumbnail": "https://i.imgur.com/Jfl5cEg.png",
+  "github": [
+    "https://github.com/TruthTreeASD"
+  ],
+  "demo": "https://truthtree.wiki/"
+}
