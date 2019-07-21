@@ -2,7 +2,7 @@
   "title": "TruthTree",
   "intro": "An open source platform that provides tools and services to users for exploring, creating, and then sharing user-generated data visualization stories",
   "tags": [
-    "Java", "ElasticSearch", "ReactJS", "Redux", "Spring Boot", "Docker", "PostgreSQL"
+    "Java", "ElasticSearch", "ReactJS", "Redux", "Spring Boot", "Docker", "PostgreSQL", "EC2", "SQS"
   ],
   "start": "Jan 2019",
   "end": "Apr 2019",
@@ -10,5 +10,5 @@
   "github": [
     "https://github.com/TruthTreeASD"
   ],
-  "demo": "https://truthtree.wiki/"
+  "demo": "https://truthtree.wiki"
 }
