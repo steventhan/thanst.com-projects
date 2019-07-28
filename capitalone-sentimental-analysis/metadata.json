@@ -2,7 +2,7 @@
   "title": "Capital One Sentimental Analysis",
   "intro": "Real-time, real-life information on Twitter's opinion of CapitalOne",
   "tags": [
-    "natural language processing", "ReactJS", "Redux", "Python", "Flask", "Google Cloud Natural Language API", "IBM Watson API"
+    "natural language processing", "Heroku", "ReactJS", "Redux", "Python", "Flask", "Google Cloud Natural Language API", "IBM Watson API"
   ],
   "start": "Jun 2019",
   "end": "Jun 2019",
